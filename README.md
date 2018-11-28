@@ -392,6 +392,11 @@ mapGetters、mapActions 和 mapState 类似 , mapGetters 一般也写在 compute
 
 #例子code
 ---
+![父组件](https://raw.githubusercontent.com/isxuch/vueDom/master/vuexDom/11.jpg)
+
+![子组件](https://raw.githubusercontent.com/isxuch/vueDom/master/vuexDom/22.jpg)
+
+![状态管理](https://raw.githubusercontent.com/isxuch/vueDom/master/vuexDom/33.jpg)
 ```
 <!-- 父组件 -->
 
